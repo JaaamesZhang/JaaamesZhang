@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JaaamesZhang
-- 👀 I’m interested in AI and creating some simple AI tools.
+- 👀 I’m interested in AI. And I am creating some simple AI tools.
 - 🌱 I’m currently a high school student. 
 - 📫 How to reach me hahalooxp@gmail.com
 
